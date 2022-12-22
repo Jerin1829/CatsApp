@@ -60,7 +60,7 @@ A simple website created using HTML from which basic elements of the HTML can be
     </main>
     <footer>
       <p>
-        No Copyright - <a href="https://www.freecodecamp.org">freeCodeCamp.org</a>
+        <em>thank you for visiting CATSPHOTOAPP</em>
       </p>
     </footer>
   </body>
